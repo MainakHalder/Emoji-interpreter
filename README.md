@@ -8,3 +8,5 @@ Features of the app-
 - A dictionary is already produced about what emoji's are there or not
 - Emojis can be customized in the dictionary
 - Gives appropriate text when user give other inputs which is not in the dictionary
+
+### link - https://n3b2g3.csb.app/
